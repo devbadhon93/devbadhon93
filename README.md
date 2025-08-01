@@ -1,3 +1,5 @@
+<img src="[img_girl.jpg](https://media.licdn.com/dms/image/v2/D5616AQE00a6h5KYRUQ/profile-displaybackgroundimage-shrink_350_1400/B56Zhm9yWdHQAY-/0/1754074131742?e=1756944000&v=beta&t=6jTTwhAz8bzsBSb-Rcuo89ymQsH3dFQEiQKVDakHqT8)" >
+
 <h1 align="center">Hi , I'm B.M. Tareq Rahman</h1>
 <h3 align="center">Professional frontend web developer & designer with passion</h3>
 
